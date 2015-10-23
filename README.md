@@ -1,2 +1,2 @@
 # proyek
-Proyek Magang
+Proyek Arduino
